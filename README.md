@@ -2,6 +2,13 @@
 Dieses WP-Widget stellt Statistik-Daten von NTLDStats.com aufbereitet in mehreren Varianten zur Verfügung. Es wird ein Account + API-Key von NTLDStats.com benötigt (beides ist kostenlos). Die Verwendung des Widgets kann aktuell auf http://mafli.net/wordpress-widget-ntldstats/ eingesehen werden. Viele Einstellungsmöglichkeiten für die Anzeige verfügbar.
 Plugin bisher nur auf Deutsch verfügbar.
 
+## Voraussetzungen: 
+Die folgenden Voraussetzungen sind nötig, damit das Widget funktioniert:
+* JavaScript Bibliothek ChartJS muss in Wordpress verfügbar sein: https://github.com/chartjs/Chart.js
+* NTLDStats.com Account + API-Key wird für die REST-Abfragen benötigt: https://ntldstats.com/signup
+
+
+## Anzeige:
 Komplette Anzeige mit 2 Diagrammen, Registry Informationen und Top10 Regstrierungsstellen eines zufällig gewählten gTLDs:
 <img src="https://user-images.githubusercontent.com/26480749/31538855-2a884972-b007-11e7-8551-50ef8623f5b8.JPG" alt="" title="Variante: Volle Seitenbreite" border="0" width="100%"/>
 
